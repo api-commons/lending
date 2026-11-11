@@ -82,8 +82,7 @@
      "ownedAdjustmentAmount": "string",
      "ownedAdjustmentCurrency": "string",
      "ownedAdjustmentMainCurrency": "string",
-     "collaterals": "array",
-     "includeInterest": "boolean",
+     "amountInUsd": "string",
      "newInterestRate": "string",
      "defaultReason": "string",
      "originalLoanAmount": "string",
@@ -136,8 +135,6 @@
      "PATCH item"
     ],
     "properties": {
-     "loans": "array",
-     "statistics": "object",
      "id": "string",
      "name": "string",
      "orgId": "string",

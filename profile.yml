@@ -151,7 +151,7 @@ concepts:
       - startDate
       - disbursementDate
       - start_date
-    long_tail_count: 183
+    long_tail_count: 181
     long_tail_sample:
     - applications
     - balance
@@ -163,6 +163,7 @@ concepts:
     - additional_comments
     - amortization_type
     - amount_base
+    - amount_in_usd
     - amount_total
     - analysis_commentary
     - approved_date
@@ -188,7 +189,6 @@ concepts:
     - collateral_portfolio_id
     - collateral_type
     - collateral_value
-    - collaterals
     - compliance_info
     - contacts
     - contents
