@@ -1,7 +1,7 @@
 provider: encompass-developer-connect
 apis_io: https://apis.io/providers/encompass-developer-connect/
 context: lending
-generated: '2026-11-10'
+generated: '2026-11-11'
 concepts:
   loan:
     path_segment:

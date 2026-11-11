@@ -15,7 +15,7 @@ generated. Every number below is a count of providers.
 | loan | 14 | 12 | id 67%, amount 50% | loans 12, loan 3, credit_lines 1 |
 | borrower | 4 | 3 |  | borrowers 3, borrower 2 |
 
-Cohort: 134 providers with harvested OpenAPI, 14 crosswalks. Of the providers exposing a loan: 57% create, 57% list, 64% fetch, 50% update, 36% delete. Generated 2026-11-10 by build.py.
+Cohort: 134 providers with harvested OpenAPI, 14 crosswalks. Of the providers exposing a loan: 57% create, 57% list, 64% fetch, 50% update, 36% delete. Generated 2026-11-11 by build.py.
 <!-- /commons:summary -->
 
 Shares are of the providers with a readable resource schema for that concept. The
