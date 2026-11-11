@@ -1,0 +1,17 @@
+provider: encompass
+apis_io: https://apis.io/providers/encompass/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties:
+      id: id
+      loan_number: loanNumber
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/encompass-openapi.yml#DELETE /encompass/v3/loans/{loanId}
+    - openapi/_original/encompass-openapi.yml#GET /encompass/v3/loans/{loanId}
+    - openapi/_original/encompass-openapi.yml#PATCH /encompass/v3/loans/{loanId}
+    - openapi/_original/encompass-openapi.yml#POST /encompass/v3/loans

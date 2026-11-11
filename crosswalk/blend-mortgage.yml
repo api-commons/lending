@@ -1,0 +1,19 @@
+provider: blend-mortgage
+apis_io: https://apis.io/providers/blend-mortgage/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/blend-mortgage-openapi.yml#GET /reports/loans
+  borrower:
+    path_segment:
+    - borrowers
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/blend-mortgage-openapi.yml#GET /reports/borrowers

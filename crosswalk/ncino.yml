@@ -1,0 +1,38 @@
+provider: ncino
+apis_io: https://apis.io/providers/ncino/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties:
+      id: id
+      amount: amount
+      maturity_date: maturity_date
+      product_id:
+      - _type
+      - type
+      created_at: created_at
+      interest_rate:
+      - apr
+      - interest_rate
+      loan_number: loan_number
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/ncino-mortgage-openapi.yml#DELETE /loans/{loan_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#GET /loans
+    - openapi/_original/ncino-mortgage-openapi.yml#GET /loans/{loan_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#PATCH /loans/{loan_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#POST /loans
+  borrower:
+    path_segment:
+    - borrowers
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/ncino-mortgage-openapi.yml#DELETE /loans/{loan_id}/borrowers/{borrower_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#DELETE /users/borrowers/{user_borrower_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#GET /loan_applications/{loan_application_id}/borrowers
+    - openapi/_original/ncino-mortgage-openapi.yml#GET /loan_applications/{loan_application_id}/borrowers/{borrower_id}
+    - openapi/_original/ncino-mortgage-openapi.yml#GET /loans/{loan_id}/borrowers

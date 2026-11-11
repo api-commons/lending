@@ -1,0 +1,181 @@
+openapi: 3.1.0
+info:
+  title: Lending (API Commons)
+  version: 0.1.0-draft.20261110
+  description: 'The common Lending interface, distilled from the harvested OpenAPI of 134 providers in the APIs.io
+    catalog. Not a product: no one serves this API. It is the shape the market already shares, measured, so that
+    providers, agents and integrators can map to one vocabulary. See profile.yml.'
+  license:
+    name: CC BY-NC-SA 4.0
+    url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+paths:
+  /loans/{loan_id}:
+    parameters:
+    - $ref: '#/components/parameters/loan_id'
+    get:
+      operationId: getLoan
+      summary: Get a loan
+      tags:
+      - Loans
+      x-commons-tier: core
+      x-commons-share: 0.643
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: &id001
+                $ref: '#/components/schemas/Loan'
+    patch:
+      operationId: updateLoan
+      summary: Update a loan
+      tags:
+      - Loans
+      x-commons-tier: core
+      x-commons-share: 0.5
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id001
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: *id001
+    delete:
+      operationId: deleteLoan
+      summary: Delete a loan
+      tags:
+      - Loans
+      x-commons-tier: extended
+      x-commons-share: 0.357
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id001
+  /loans:
+    get:
+      operationId: listLoans
+      summary: List loans
+      tags:
+      - Loans
+      x-commons-tier: core
+      x-commons-share: 0.571
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: *id001
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          type: integer
+      - name: cursor
+        in: query
+        schema:
+          type: string
+    post:
+      operationId: createLoan
+      summary: Create a loan
+      tags:
+      - Loans
+      x-commons-tier: core
+      x-commons-share: 0.571
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id001
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: *id001
+  /borrowers:
+    get:
+      operationId: listBorrowers
+      summary: List borrowers
+      tags:
+      - Borrowers
+      x-commons-tier: core
+      x-commons-share: 1.0
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: &id002
+                  $ref: '#/components/schemas/Borrower'
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          type: integer
+      - name: cursor
+        in: query
+        schema:
+          type: string
+    post:
+      operationId: createBorrower
+      summary: Create a borrower
+      tags:
+      - Borrowers
+      x-commons-tier: core
+      x-commons-share: 0.75
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id002
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: *id002
+  /borrowers/{borrower_id}:
+    parameters:
+    - $ref: '#/components/parameters/borrower_id'
+    get:
+      operationId: getBorrower
+      summary: Get a borrower
+      tags:
+      - Borrowers
+      x-commons-tier: core
+      x-commons-share: 0.75
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id002
+components:
+  schemas:
+    Loan:
+      $ref: ./schema/loan.json
+    Borrower:
+      $ref: ./schema/borrower.json
+  parameters:
+    loan_id:
+      name: loan_id
+      in: path
+      required: true
+      schema:
+        type: string
+    borrower_id:
+      name: borrower_id
+      in: path
+      required: true
+      schema:
+        type: string

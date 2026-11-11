@@ -1,0 +1,13 @@
+provider: xfers
+apis_io: https://apis.io/providers/xfers/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/xfers-indonesia-openapi.json#GET /v3/loans/{id}
+    - openapi/_original/xfers-indonesia-openapi.json#POST /v3/loans

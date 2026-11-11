@@ -1,0 +1,18 @@
+provider: dbt-se
+apis_io: https://apis.io/providers/dbt-se/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties:
+      id: id
+      status: status
+      maturity_date: maturityDate
+      originated_at: disbursementDate
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/dbt-se-openapi.json#GET /portfolio/loans
+    - openapi/_original/dbt-se-openapi.json#GET /portfolio/organizations/{orgId}/loans
+    - openapi/_original/dbt-se-openapi.json#PATCH /portfolio/loans/{loanId}

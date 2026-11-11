@@ -1,0 +1,14 @@
+provider: agora-data
+apis_io: https://apis.io/providers/agora-data/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/agora-data-openapi-original.json#DELETE /api/v1/loans/{rest_of_path}
+    - openapi/_original/agora-data-openapi-original.json#DELETE /loans/{rest_of_path}
+    - openapi/_original/agora-data-openapi-original.json#GET /api/v1/loans

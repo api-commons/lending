@@ -1,0 +1,12 @@
+provider: toqio
+apis_io: https://apis.io/providers/toqio/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loans
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/toqio-integration-hub-api-openapi.yml#GET /customers/{customerId}/lending/loans/{loanId}

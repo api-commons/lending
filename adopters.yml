@@ -1,0 +1,77 @@
+context: lending
+generated: '2026-11-10'
+adopters:
+- provider: agora-data
+  apis_io: https://apis.io/providers/agora-data/
+  crosswalk: crosswalk/agora-data.yml
+  concepts:
+  - loan
+- provider: blend-mortgage
+  apis_io: https://apis.io/providers/blend-mortgage/
+  crosswalk: crosswalk/blend-mortgage.yml
+  concepts:
+  - borrower
+  - loan
+- provider: copper-co
+  apis_io: https://apis.io/providers/copper-co/
+  crosswalk: crosswalk/copper-co.yml
+  concepts:
+  - loan
+- provider: cross-river
+  apis_io: https://apis.io/providers/cross-river/
+  crosswalk: crosswalk/cross-river.yml
+  concepts:
+  - loan
+- provider: dbt-se
+  apis_io: https://apis.io/providers/dbt-se/
+  crosswalk: crosswalk/dbt-se.yml
+  concepts:
+  - loan
+- provider: defacto
+  apis_io: https://apis.io/providers/defacto/
+  crosswalk: crosswalk/defacto.yml
+  concepts:
+  - borrower
+  - loan
+- provider: encompass
+  apis_io: https://apis.io/providers/encompass/
+  crosswalk: crosswalk/encompass.yml
+  concepts:
+  - loan
+- provider: encompass-developer-connect
+  apis_io: https://apis.io/providers/encompass-developer-connect/
+  crosswalk: crosswalk/encompass-developer-connect.yml
+  concepts:
+  - loan
+- provider: fincura
+  apis_io: https://apis.io/providers/fincura/
+  crosswalk: crosswalk/fincura.yml
+  concepts:
+  - borrower
+  - loan
+- provider: kamino
+  apis_io: https://apis.io/providers/kamino/
+  crosswalk: crosswalk/kamino.yml
+  concepts:
+  - loan
+- provider: ncino
+  apis_io: https://apis.io/providers/ncino/
+  crosswalk: crosswalk/ncino.yml
+  concepts:
+  - borrower
+  - loan
+- provider: ocrolus
+  apis_io: https://apis.io/providers/ocrolus/
+  crosswalk: crosswalk/ocrolus.yml
+  concepts:
+  - loan
+- provider: toqio
+  apis_io: https://apis.io/providers/toqio/
+  crosswalk: crosswalk/toqio.yml
+  concepts:
+  - loan
+- provider: xfers
+  apis_io: https://apis.io/providers/xfers/
+  crosswalk: crosswalk/xfers.yml
+  concepts:
+  - loan

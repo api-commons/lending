@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-commons/lending/main/schema/loan.json",
+  "title": "Loan",
+  "description": "The common loan in Lending, distilled from 12 providers' own OpenAPI. Each property records the share of them that declare it.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-commons-tier": "core",
+      "x-commons-share": 0.667,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "id",
+        "loanId",
+        "guid",
+        "uuid",
+        "loan_id"
+      ]
+    },
+    "amount": {
+      "type": "number",
+      "x-commons-tier": "core",
+      "x-commons-share": 0.5,
+      "x-commons-providers": 6,
+      "x-commons-spellings": [
+        "amount",
+        "loanAmount",
+        "principal"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.417,
+      "x-commons-providers": 5,
+      "x-commons-spellings": [
+        "status",
+        "state"
+      ]
+    },
+    "maturity_date": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.333,
+      "x-commons-providers": 4,
+      "x-commons-spellings": [
+        "maturityDate",
+        "end_date",
+        "maturity_date"
+      ]
+    },
+    "product_id": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.333,
+      "x-commons-providers": 4,
+      "x-commons-spellings": [
+        "loanType",
+        "loan_type",
+        "_type",
+        "type"
+      ]
+    },
+    "created_at": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.25,
+      "x-commons-providers": 3,
+      "x-commons-spellings": [
+        "createdAt",
+        "created_date",
+        "created_at"
+      ],
+      "format": "date-time"
+    },
+    "currency": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.25,
+      "x-commons-providers": 3,
+      "x-commons-spellings": [
+        "currency"
+      ]
+    },
+    "interest_rate": {
+      "type": "number",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.25,
+      "x-commons-providers": 3,
+      "x-commons-spellings": [
+        "interest_rate",
+        "interestRate",
+        "apr"
+      ]
+    },
+    "loan_number": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.25,
+      "x-commons-providers": 3,
+      "x-commons-spellings": [
+        "loanNumber",
+        "loan_number"
+      ]
+    },
+    "originated_at": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.25,
+      "x-commons-providers": 3,
+      "x-commons-spellings": [
+        "startDate",
+        "disbursementDate",
+        "start_date"
+      ],
+      "format": "date-time"
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "x-commons": {
+    "context": "lending",
+    "concept": "loan",
+    "providers": 12,
+    "generated": "2026-11-10",
+    "version": "0.1.0-draft.20261110",
+    "status": "draft"
+  }
+}

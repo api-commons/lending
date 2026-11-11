@@ -1,0 +1,1333 @@
+[
+ {
+  "slug": "affirm",
+  "specs": [
+   "openapi/_original/affirm-checkout-openapi.yml",
+   "openapi/_original/affirm-direct-api-openapi.yml",
+   "openapi/_original/affirm-disputes-openapi.yml",
+   "openapi/_original/affirm-promos-openapi.yml",
+   "openapi/_original/affirm-transactions-openapi.yml"
+  ]
+ },
+ {
+  "slug": "agora-data",
+  "specs": [
+   "openapi/_original/agora-data-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "alliance-data-systems",
+  "specs": [
+   "openapi/_original/bread-classic-merchant-openapi.yml",
+   "openapi/_original/bread-pay-platform-openapi.yml"
+  ]
+ },
+ {
+  "slug": "apurata",
+  "specs": [
+   "openapi/_original/apurata-acuotaz-pos-openapi.yml"
+  ]
+ },
+ {
+  "slug": "atrato",
+  "specs": [
+   "openapi/_original/atrato-partners-openapi.yml"
+  ]
+ },
+ {
+  "slug": "attom-data",
+  "specs": [
+   "openapi/_original/attom-data-openapi.yml"
+  ]
+ },
+ {
+  "slug": "attomdata",
+  "specs": [
+   "openapi/_original/attom-area-api-openapi.yml",
+   "openapi/_original/attom-community-api-openapi.yml",
+   "openapi/_original/attom-parcel-tiles-api-openapi.yml",
+   "openapi/_original/attom-poi-api-openapi.yml",
+   "openapi/_original/attom-property-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "autofi",
+  "specs": [
+   "openapi/_original/autofi-api-openapi.yml",
+   "openapi/_original/autofi-openapi.json"
+  ]
+ },
+ {
+  "slug": "bankruptcywatch",
+  "specs": [
+   "openapi/_original/bankruptcywatch-pacer-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "basiq",
+  "specs": [
+   "openapi/_original/basiq-affordability-openapi.json",
+   "openapi/_original/basiq-analytics-openapi.json",
+   "openapi/_original/basiq-enrich-openapi.json",
+   "openapi/_original/basiq-identity-openapi.json",
+   "openapi/_original/basiq-insights-openapi.json",
+   "openapi/_original/basiq-openapi.json",
+   "openapi/_original/basiq-payees-openapi.json",
+   "openapi/_original/basiq-platform-openapi.json",
+   "openapi/_original/basiq-reporting-openapi.json",
+   "openapi/_original/basiq-webhooks-openapi.json"
+  ]
+ },
+ {
+  "slug": "billie",
+  "specs": [
+   "openapi/_original/billie-direct-api-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "blend-mortgage",
+  "specs": [
+   "openapi/_original/blend-mortgage-openapi.yml"
+  ]
+ },
+ {
+  "slug": "blnkfinance",
+  "specs": [
+   "openapi/_original/blnkfinance-core-openapi.json"
+  ]
+ },
+ {
+  "slug": "bond",
+  "specs": [
+   "openapi/_original/bond-accounts-openapi.yml",
+   "openapi/_original/bond-accounts-readme-slices.json",
+   "openapi/_original/bond-business-openapi.yml",
+   "openapi/_original/bond-business-readme-slices.json",
+   "openapi/_original/bond-cards-openapi.yml",
+   "openapi/_original/bond-cards-readme-slices.json",
+   "openapi/_original/bond-credit-openapi.yml",
+   "openapi/_original/bond-credit-readme-slices.json",
+   "openapi/_original/bond-customer-openapi.yml",
+   "openapi/_original/bond-customer-readme-slices.json",
+   "openapi/_original/bond-ledger-openapi.yml",
+   "openapi/_original/bond-ledger-readme-slices.json",
+   "openapi/_original/bond-simulation-openapi.yml",
+   "openapi/_original/bond-simulation-readme-slices.json",
+   "openapi/_original/bond-transfers-openapi.yml",
+   "openapi/_original/bond-transfers-readme-slices.json",
+   "openapi/_original/bond-webhooks-openapi.yml",
+   "openapi/_original/bond-webhooks-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "bread-financial",
+  "specs": [
+   "openapi/_original/bread-buyer-management-openapi.json",
+   "openapi/_original/bread-checkout-openapi.json",
+   "openapi/_original/bread-foundations-openapi.json",
+   "openapi/_original/bread-merchant-operations-openapi.json",
+   "openapi/_original/bread-payments-openapi.json",
+   "openapi/_original/bread-program-openapi.json",
+   "openapi/_original/bread-servicing-openapi.json",
+   "openapi/_original/bread-tradein-openapi.json",
+   "openapi/_original/bread-webhook-openapi.json"
+  ]
+ },
+ {
+  "slug": "budgetpixel",
+  "specs": [
+   "openapi/_original/budgetpixel-openapi.yaml",
+   "openapi/_original/budgetpixel-openapi_2.yaml"
+  ]
+ },
+ {
+  "slug": "bullet",
+  "specs": [
+   "openapi/_original/bullet-trading-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "capchase",
+  "specs": [
+   "openapi/_original/capchase-pay-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cash-app",
+  "specs": [
+   "openapi/_original/cash-app-billing-agreements-deprecated-openapi.json",
+   "openapi/_original/cash-app-checkouts-openapi.json",
+   "openapi/_original/cash-app-configuration-openapi.json",
+   "openapi/_original/cash-app-customer-request-api-openapi.json",
+   "openapi/_original/cash-app-disputes-openapi.json",
+   "openapi/_original/cash-app-grants-afterpay-openapi.json",
+   "openapi/_original/cash-app-grants-cash-app-pay-openapi.json",
+   "openapi/_original/cash-app-management-api-openapi.json",
+   "openapi/_original/cash-app-network-api-openapi.json",
+   "openapi/_original/cash-app-orders-openapi.json",
+   "openapi/_original/cash-app-payments-openapi.json",
+   "openapi/_original/cash-app-service-status-openapi.json"
+  ]
+ },
+ {
+  "slug": "celcoin",
+  "specs": [
+   "openapi/_original/celcoin-billissuance-settlement-openapi.json",
+   "openapi/_original/celcoin-credit-openapi.json",
+   "openapi/_original/celcoin-onboarding-openapi.json"
+  ]
+ },
+ {
+  "slug": "celsius-network",
+  "specs": [
+   "openapi/_original/celsius-network-partner-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cfpb",
+  "specs": [
+   "openapi/_original/cfpb-consumer-complaint-database-api-openapi.yml",
+   "openapi/_original/cfpb-hmda-data-browser-api-openapi.yml",
+   "openapi/_original/cfpb-hmda-filing-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "chargeafter",
+  "specs": [
+   "openapi/_original/chargeafter-charge-api-openapi-original.json",
+   "openapi/_original/chargeafter-charge-api-openapi.yml",
+   "openapi/_original/chargeafter-checkout-application-status-openapi-original.json",
+   "openapi/_original/chargeafter-checkout-application-status-openapi.yml",
+   "openapi/_original/chargeafter-checkout-application-token-openapi-original.json",
+   "openapi/_original/chargeafter-checkout-application-token-openapi.yml",
+   "openapi/_original/chargeafter-checkout-session-accounts-openapi-original.json",
+   "openapi/_original/chargeafter-checkout-session-accounts-openapi.yml",
+   "openapi/_original/chargeafter-checkout-session-openapi-original.json",
+   "openapi/_original/chargeafter-checkout-session-openapi.yml",
+   "openapi/_original/chargeafter-consumer-api-openapi-original.json",
+   "openapi/_original/chargeafter-consumer-api-openapi.yml",
+   "openapi/_original/chargeafter-consumer-credit-lookup-openapi-original.json",
+   "openapi/_original/chargeafter-consumer-credit-lookup-openapi.yml",
+   "openapi/_original/chargeafter-consumer-details-openapi-original.json",
+   "openapi/_original/chargeafter-consumer-details-openapi.yml",
+   "openapi/_original/chargeafter-consumers-management-openapi-original.json",
+   "openapi/_original/chargeafter-consumers-management-openapi.yml",
+   "openapi/_original/chargeafter-disputes-management-lenders-openapi-original.json",
+   "openapi/_original/chargeafter-disputes-management-lenders-openapi.yml",
+   "openapi/_original/chargeafter-distribution-api-openapi-original.json",
+   "openapi/_original/chargeafter-distribution-api-openapi.yml",
+   "openapi/_original/chargeafter-funding-api-openapi-original.json",
+   "openapi/_original/chargeafter-funding-api-openapi.yml",
+   "openapi/_original/chargeafter-omni-link-openapi-original.json",
+   "openapi/_original/chargeafter-omni-link-openapi.yml"
+  ]
+ },
+ {
+  "slug": "citizens-financial-group",
+  "specs": [
+   "openapi/_original/citizens-account-transfer-v1.json",
+   "openapi/_original/citizens-account-validation-v1.json",
+   "openapi/_original/citizens-accounts-fdx-v1.json",
+   "openapi/_original/citizens-accounts-fdx-v2-sandbox.json",
+   "openapi/_original/citizens-atm-locator-v1-sandbox.json",
+   "openapi/_original/citizens-authorize-v1.json",
+   "openapi/_original/citizens-authorize-v2-sandbox.json",
+   "openapi/_original/citizens-branch-locator-v1-sandbox.json",
+   "openapi/_original/citizens-financial-group-account-transfer-openapi.yml",
+   "openapi/_original/citizens-financial-group-account-validation-openapi.yml",
+   "openapi/_original/citizens-financial-group-accounts-openapi.yml",
+   "openapi/_original/citizens-financial-group-accounts-v2-openapi.yml",
+   "openapi/_original/citizens-financial-group-atm-locator-openapi.yml",
+   "openapi/_original/citizens-financial-group-authorize-openapi.yml",
+   "openapi/_original/citizens-financial-group-authorize-v2-openapi.yml",
+   "openapi/_original/citizens-financial-group-branch-locator-openapi.yml",
+   "openapi/_original/citizens-financial-group-information-reporting-openapi.yml",
+   "openapi/_original/citizens-financial-group-payments-openapi.yml",
+   "openapi/_original/citizens-financial-group-statements-openapi.yml",
+   "openapi/_original/citizens-financial-group-statements-v2-openapi.yml",
+   "openapi/_original/citizens-information-reporting-v1.json",
+   "openapi/_original/citizens-payments-v3.json",
+   "openapi/_original/citizens-statements-fdx-v1.json",
+   "openapi/_original/citizens-statements-fdx-v2-sandbox.json"
+  ]
+ },
+ {
+  "slug": "clear-capital",
+  "specs": [
+   "openapi/_original/clear-capital-openapi.yml"
+  ]
+ },
+ {
+  "slug": "codat-io",
+  "specs": [
+   "openapi/_original/codat-io-openapi.yml"
+  ]
+ },
+ {
+  "slug": "conekta",
+  "specs": [
+   "openapi/_original/conekta-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "connells",
+  "specs": [
+   "openapi/_original/connells-website-openapi.yml"
+  ]
+ },
+ {
+  "slug": "consumer-financial-protection-bureau",
+  "specs": [
+   "openapi/_original/cfpb-ccdb-openapi.yml",
+   "openapi/_original/cfpb-hmda-data-browser-openapi.yml",
+   "openapi/_original/cfpb-hmda-institutions-openapi.yml"
+  ]
+ },
+ {
+  "slug": "copper-co",
+  "specs": [
+   "openapi/_original/copper-co-deprecated-openapi.json",
+   "openapi/_original/copper-co-lending-openapi.json",
+   "openapi/_original/copper-co-platform-openapi.json",
+   "openapi/_original/copper-co-trades-openapi.json",
+   "openapi/_original/copper-co-unlimited-openapi.json"
+  ]
+ },
+ {
+  "slug": "cross-river",
+  "specs": [
+   "openapi/_original/cross-river-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dbt-se",
+  "specs": [
+   "openapi/_original/dbt-se-openapi.json"
+  ]
+ },
+ {
+  "slug": "defacto",
+  "specs": [
+   "openapi/_original/defacto-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "dun-and-bradstreet",
+  "specs": [
+   "openapi/_original/dnb-direct-plus-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "encompass",
+  "specs": [
+   "openapi/_original/encompass-openapi.yml"
+  ]
+ },
+ {
+  "slug": "encompass-developer-connect",
+  "specs": [
+   "openapi/_original/encompass-developer-connect-openapi.yml"
+  ]
+ },
+ {
+  "slug": "euler",
+  "specs": [
+   "openapi/_original/euler-v3-data-api.json"
+  ]
+ },
+ {
+  "slug": "even-financial",
+  "specs": [
+   "openapi/_original/even-financial-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "exactly",
+  "specs": [
+   "openapi/_original/auditor-api.yml",
+   "openapi/_original/market-api.yml",
+   "openapi/_original/previewer-api.yml",
+   "openapi/_original/rewards-controller-api.yml"
+  ]
+ },
+ {
+  "slug": "falcon",
+  "specs": [
+   "openapi/_original/falcon-add-a-program-openapi.yml",
+   "openapi/_original/falcon-add-a-program-readme-slices.json",
+   "openapi/_original/falcon-add-a-user-openapi.yml",
+   "openapi/_original/falcon-add-a-user-readme-slices.json",
+   "openapi/_original/falcon-add-an-aggregator-openapi.yml",
+   "openapi/_original/falcon-add-an-aggregator-readme-slices.json",
+   "openapi/_original/falcon-add-an-enterprise-admin-readme-slices.json",
+   "openapi/_original/falcon-add-an-issuer-openapi.yml",
+   "openapi/_original/falcon-add-an-issuer-readme-slices.json",
+   "openapi/_original/falcon-assign-a-fee-model-to-a-program-readme-slices.json",
+   "openapi/_original/falcon-assign-a-program-to-an-aggregator-readme-slices.json",
+   "openapi/_original/falcon-assign-a-program-to-an-enterprise-readme-slices.json",
+   "openapi/_original/falcon-assign-a-program-to-an-user-readme-slices.json",
+   "openapi/_original/falcon-block-or-allow-mccs-for-enterprise-readme-slices.json",
+   "openapi/_original/falcon-change-due-date-of-an-account-readme-slices.json",
+   "openapi/_original/falcon-confirm-the-user-registration-openapi.yml",
+   "openapi/_original/falcon-confirm-the-user-registration-readme-slices.json",
+   "openapi/_original/falcon-create-a-program-due-date-readme-slices.json",
+   "openapi/_original/falcon-credit-card-account-apis-openapi.yml",
+   "openapi/_original/falcon-credit-card-account-apis-readme-slices.json",
+   "openapi/_original/falcon-credit-card-apis-openapi.yml",
+   "openapi/_original/falcon-credit-card-apis-readme-slices.json",
+   "openapi/_original/falcon-dispute-apis-openapi.yml",
+   "openapi/_original/falcon-dispute-apis-readme-slices.json",
+   "openapi/_original/falcon-emi-api-readme-slices.json",
+   "openapi/_original/falcon-fee-apis-openapi.yml",
+   "openapi/_original/falcon-fee-apis-readme-slices.json",
+   "openapi/_original/falcon-funding-apis-openapi.yml",
+   "openapi/_original/falcon-funding-apis-readme-slices.json",
+   "openapi/_original/falcon-get-program-due-dates-readme-slices.json",
+   "openapi/_original/falcon-get-user-details-using-cif-openapi.yml",
+   "openapi/_original/falcon-get-user-details-using-cif-readme-slices.json",
+   "openapi/_original/falcon-initiate-a-user-registration-openapi.yml",
+   "openapi/_original/falcon-initiate-a-user-registration-readme-slices.json",
+   "openapi/_original/falcon-interest-apis-readme-slices.json",
+   "openapi/_original/falcon-onboard-an-enterprise-openapi.yml",
+   "openapi/_original/falcon-onboard-an-enterprise-readme-slices.json",
+   "openapi/_original/falcon-program-configuration-honor-openapi.yml",
+   "openapi/_original/falcon-program-configuration-honor-readme-slices.json",
+   "openapi/_original/falcon-repayment-apis-openapi.yml",
+   "openapi/_original/falcon-repayment-apis-readme-slices.json",
+   "openapi/_original/falcon-rewards-api-readme-slices.json",
+   "openapi/_original/falcon-statements-api-readme-slices.json",
+   "openapi/_original/falcon-transaction-apis-openapi.yml",
+   "openapi/_original/falcon-transaction-apis-readme-slices.json",
+   "openapi/_original/falcon-update-a-program-due-date-readme-slices.json",
+   "openapi/_original/falcon-update-an-issuer-openapi.yml",
+   "openapi/_original/falcon-update-an-issuer-readme-slices.json",
+   "openapi/_original/falcon-update-enterprise-credit-limits-readme-slices.json",
+   "openapi/_original/falcon-update-enterprise-details-openapi.yml",
+   "openapi/_original/falcon-update-enterprise-details-readme-slices.json",
+   "openapi/_original/falcon-update-user-details-openapi.yml",
+   "openapi/_original/falcon-update-user-details-readme-slices.json",
+   "openapi/_original/falcon-view-a-list-of-enterprise-accounts-readme-slices.json",
+   "openapi/_original/falcon-view-a-list-of-enterprises-readme-slices.json",
+   "openapi/_original/falcon-view-a-program-openapi.yml",
+   "openapi/_original/falcon-view-a-program-readme-slices.json",
+   "openapi/_original/falcon-view-aggregator-program-subscriptions-readme-slices.json",
+   "openapi/_original/falcon-view-an-issuer-openapi.yml",
+   "openapi/_original/falcon-view-an-issuer-readme-slices.json",
+   "openapi/_original/falcon-view-enterprise-account-details-openapi.yml",
+   "openapi/_original/falcon-view-enterprise-account-details-readme-slices.json",
+   "openapi/_original/falcon-view-enterprise-details-openapi.yml",
+   "openapi/_original/falcon-view-enterprise-details-readme-slices.json",
+   "openapi/_original/falcon-view-enterprise-program-subscriptions-readme-slices.json",
+   "openapi/_original/falcon-view-enterprise-summary-openapi.yml",
+   "openapi/_original/falcon-view-enterprise-summary-readme-slices.json",
+   "openapi/_original/falcon-view-issuer-programs-readme-slices.json",
+   "openapi/_original/falcon-view-list-of-programs-readme-slices.json",
+   "openapi/_original/falcon-view-list-of-users-of-an-enterprise-readme-slices.json",
+   "openapi/_original/falcon-view-user-details-openapi.yml",
+   "openapi/_original/falcon-view-user-details-readme-slices.json",
+   "openapi/_original/falcon-view-user-program-subscriptions-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "fifth-third-bancorp",
+  "specs": [
+   "openapi/_original/newline-platform-api.json"
+  ]
+ },
+ {
+  "slug": "figure",
+  "specs": [
+   "openapi/_original/figure-heloc-inquiries-openapi-original.yml",
+   "openapi/_original/figure-heloc-pre-qualification-openapi-original.yml",
+   "openapi/_original/figure-portfolio-manager-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "figure-technology-solutions",
+  "specs": [
+   "openapi/_original/figure-technology-solutions-heloc-inquiries-openapi.yml",
+   "openapi/_original/figure-technology-solutions-heloc-pre-qualification-openapi.yml",
+   "openapi/_original/figure-technology-solutions-portfolio-manager-openapi.yml"
+  ]
+ },
+ {
+  "slug": "fincura",
+  "specs": [
+   "openapi/_original/fincura-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "finmid",
+  "specs": [
+   "openapi/_original/finmid-b2b-payments-api-readme-slices.json",
+   "openapi/_original/finmid-capital-api-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "fintecture",
+  "specs": [
+   "openapi/_original/fintecture-ais-api-openapi.yml",
+   "openapi/_original/fintecture-emandates-api-openapi.yml",
+   "openapi/_original/fintecture-oac-api-openapi.yml",
+   "openapi/_original/fintecture-pis-api-openapi.yml",
+   "openapi/_original/fintecture-resources-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "first-american-financial",
+  "specs": [
+   "openapi/_original/first-american-financial-4506c-openapi.json",
+   "openapi/_original/first-american-financial-4506c-openapi.yml",
+   "openapi/_original/first-american-financial-bankruptcy-openapi.json",
+   "openapi/_original/first-american-financial-bankruptcy-openapi.yml",
+   "openapi/_original/first-american-financial-clearsearch-openapi.json",
+   "openapi/_original/first-american-financial-clearsearch-openapi.yml",
+   "openapi/_original/first-american-financial-identity-openapi.json",
+   "openapi/_original/first-american-financial-identity-openapi.yml",
+   "openapi/_original/first-american-financial-income-estimate-openapi.json",
+   "openapi/_original/first-american-financial-income-estimate-openapi.yml",
+   "openapi/_original/first-american-financial-liens-judgments-fcra-openapi.json",
+   "openapi/_original/first-american-financial-liens-judgments-fcra-openapi.yml",
+   "openapi/_original/first-american-financial-liens-judgments-non-fcra-openapi.json",
+   "openapi/_original/first-american-financial-liens-judgments-non-fcra-openapi.yml",
+   "openapi/_original/first-american-financial-nmls-openapi.json",
+   "openapi/_original/first-american-financial-nmls-openapi.yml",
+   "openapi/_original/first-american-financial-occupancy-openapi.json",
+   "openapi/_original/first-american-financial-occupancy-openapi.yml",
+   "openapi/_original/first-american-financial-ownership-openapi.json",
+   "openapi/_original/first-american-financial-ownership-openapi.yml",
+   "openapi/_original/first-american-financial-property-openapi.json",
+   "openapi/_original/first-american-financial-property-openapi.yml",
+   "openapi/_original/first-american-financial-reverse-address-openapi.json",
+   "openapi/_original/first-american-financial-reverse-address-openapi.yml",
+   "openapi/_original/first-american-financial-reverse-phone-openapi.json",
+   "openapi/_original/first-american-financial-reverse-phone-openapi.yml",
+   "openapi/_original/first-american-financial-scra-openapi.json",
+   "openapi/_original/first-american-financial-scra-openapi.yml",
+   "openapi/_original/first-american-financial-title-settlement-openapi.json",
+   "openapi/_original/first-american-financial-title-settlement-openapi.yml",
+   "openapi/_original/first-american-financial-watchlist-openapi.json",
+   "openapi/_original/first-american-financial-watchlist-openapi.yml"
+  ]
+ },
+ {
+  "slug": "flueid",
+  "specs": [
+   "openapi/_original/flueid-pro-openapi-original.json",
+   "openapi/_original/flueid-pro-openapi.yml"
+  ]
+ },
+ {
+  "slug": "freddie-mac",
+  "specs": [
+   "openapi/_original/CashPricingAPISpec032626.json",
+   "openapi/_original/Data-Share-API-V1-11042025-UPDATED.json",
+   "openapi/_original/Data-Share-Bid-Tape-11042025-UPDATED.json",
+   "openapi/_original/FreddieMac_Org-affordable-check.json",
+   "openapi/_original/Guarantor Purchase Settlement Service_Swagger.json",
+   "openapi/_original/GuarantorPricing-SwaggerAPI05302024.json",
+   "openapi/_original/GurantorCommittingSpec0925.json",
+   "openapi/_original/IncomeLimits_APISPEC-V2.1.0-080626.json",
+   "openapi/_original/Loan Import-APISPEC-052826.json",
+   "openapi/_original/LoanClosingAdvisorLoanSubmission3.2.0.yaml",
+   "openapi/_original/LoanLookUpAPI-V2.json",
+   "openapi/_original/Property-Insights-2.0.0.json",
+   "openapi/_original/REVP-API-V2.json",
+   "openapi/_original/Resolve-Workout-Options 0625.json",
+   "openapi/_original/ResolveLiquidation-API.json",
+   "openapi/_original/ResolveRetention-APISPEC-103025.json",
+   "openapi/_original/beyondAceSwagger_06062024.yaml",
+   "openapi/_original/cashCommittingAPISPEC032626.json",
+   "openapi/_original/cashSettlementPurchaseStatementAPI12132023.json",
+   "openapi/_original/current-mortgage_snapshot-V1.json",
+   "openapi/_original/freddie-mac-affordable-check-openapi.json",
+   "openapi/_original/freddie-mac-beyond-ace-openapi.yaml",
+   "openapi/_original/freddie-mac-cash-committing-openapi.json",
+   "openapi/_original/freddie-mac-cash-pricing-openapi.json",
+   "openapi/_original/freddie-mac-cash-settlement-purchase-statement-openapi.json",
+   "openapi/_original/freddie-mac-current-mortgage-snapshot-openapi.json",
+   "openapi/_original/freddie-mac-data-share-bid-tape-openapi.json",
+   "openapi/_original/freddie-mac-data-share-openapi.json",
+   "openapi/_original/freddie-mac-guarantor-committing-openapi.json",
+   "openapi/_original/freddie-mac-guarantor-pricing-openapi.json",
+   "openapi/_original/freddie-mac-guarantor-settlement-purchase-statement-openapi.json",
+   "openapi/_original/freddie-mac-income-limits-openapi.json",
+   "openapi/_original/freddie-mac-loan-closing-advisor-loan-submission-openapi.yaml",
+   "openapi/_original/freddie-mac-loan-import-openapi.json",
+   "openapi/_original/freddie-mac-loan-look-up-openapi.json",
+   "openapi/_original/freddie-mac-property-insights-openapi.json",
+   "openapi/_original/freddie-mac-resolve-liquidation-openapi.json",
+   "openapi/_original/freddie-mac-resolve-retention-openapi.json",
+   "openapi/_original/freddie-mac-resolve-valuation-pricing-openapi.json",
+   "openapi/_original/freddie-mac-resolve-workout-options-openapi.json"
+  ]
+ },
+ {
+  "slug": "fund-that-flip",
+  "specs": [
+   "openapi/_original/fund-that-flip-flipperforce-public-api.json",
+   "openapi/_original/fund-that-flip-flipperforce-public-api.yml"
+  ]
+ },
+ {
+  "slug": "funding-circle",
+  "specs": [
+   "openapi/_original/funding-circle-introducer-openapi.yml"
+  ]
+ },
+ {
+  "slug": "heron",
+  "specs": [
+   "openapi/_original/heron-openapi.json"
+  ]
+ },
+ {
+  "slug": "highline-fi",
+  "specs": [
+   "openapi/_original/highline-fi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "highnote",
+  "specs": [
+   "openapi/_original/highnote-openapi.yml"
+  ]
+ },
+ {
+  "slug": "hometrack",
+  "specs": [
+   "openapi/_original/hometrack-api-public-openapi.yml",
+   "openapi/_original/hometrack-broker-avm-api-openapi.yml",
+   "openapi/_original/hometrack-climate-api-v2-openapi.yml",
+   "openapi/_original/hometrack-climate-graphql-api-openapi.yml",
+   "openapi/_original/hometrack-prh-core-external-client-api-v2-openapi.yml",
+   "openapi/_original/hometrack-valuation-api-v1-openapi.yml"
+  ]
+ },
+ {
+  "slug": "hud",
+  "specs": [
+   "openapi/_original/hud-chas-openapi.yml",
+   "openapi/_original/hud-fair-market-rents-openapi.yml",
+   "openapi/_original/hud-housing-counselor-search-openapi.yml",
+   "openapi/_original/hud-income-limits-openapi.yml",
+   "openapi/_original/hud-usps-zip-code-crosswalk-openapi.yml"
+  ]
+ },
+ {
+  "slug": "imprint",
+  "specs": [
+   "openapi/_original/imprint-openapi.yml"
+  ]
+ },
+ {
+  "slug": "interhyp",
+  "specs": [
+   "openapi/_original/interhyp-submission-documents-openapi.yml",
+   "openapi/_original/interhyp-submission-openapi.yml"
+  ]
+ },
+ {
+  "slug": "interswitch",
+  "specs": [
+   "openapi/_original/interswitch-airtime-recharge-api-openapi.yml",
+   "openapi/_original/interswitch-bills-payment-api-openapi.yml",
+   "openapi/_original/interswitch-card-360-api-openapi.yml",
+   "openapi/_original/interswitch-customer-insights-api-openapi.yml",
+   "openapi/_original/interswitch-lending-api-openapi.yml",
+   "openapi/_original/interswitch-paycode-api-openapi.yml",
+   "openapi/_original/interswitch-payment-gateway-api-openapi.yml",
+   "openapi/_original/interswitch-recurring-payments-api-openapi.yml",
+   "openapi/_original/interswitch-transaction-search-api-openapi.yml",
+   "openapi/_original/interswitch-web-checkout-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "itau-unibanco",
+  "specs": [
+   "openapi/_original/itau-unibanco-open-finance-channels-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-common-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-accounts-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-creditcards-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-financings-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-invoicefinancings-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-loans-openapi.yml",
+   "openapi/_original/itau-unibanco-open-finance-opendata-unarranged-openapi.yml",
+   "openapi/_original/ofb-channels-2.0.1.yml",
+   "openapi/_original/ofb-common-2.0.1.yml",
+   "openapi/_original/ofb-opendata-accounts-1.0.1.yml",
+   "openapi/_original/ofb-opendata-creditcards-1.0.1.yml",
+   "openapi/_original/ofb-opendata-financings-1.0.1.yml",
+   "openapi/_original/ofb-opendata-invoicefinancings-1.0.1.yml",
+   "openapi/_original/ofb-opendata-loans-1.0.1.yml",
+   "openapi/_original/ofb-opendata-unarranged-1.0.1.yml"
+  ]
+ },
+ {
+  "slug": "jack-henry",
+  "specs": [
+   "openapi/_original/banno-admin-api-openapi.yml",
+   "openapi/_original/banno-authentication-framework-openapi.yml",
+   "openapi/_original/banno-consumer-api-openapi.yml",
+   "openapi/_original/banno-plugin-framework-openapi.yml",
+   "openapi/_original/jack-henry-payments-openapi.yml",
+   "openapi/_original/jxchange-rest-openapi.yml"
+  ]
+ },
+ {
+  "slug": "jupiter-ag",
+  "specs": [
+   "openapi/_original/jupiter-ag-openapi.yml"
+  ]
+ },
+ {
+  "slug": "kamino",
+  "specs": [
+   "openapi/_original/kamino-public-openapi-original.json",
+   "openapi/_original/kamino-transactions-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "kanmon",
+  "specs": [
+   "openapi/_original/kanmon-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "kita",
+  "specs": [
+   "openapi/_original/kita-capture-openapi.yml",
+   "openapi/_original/kita-underwriter-openapi.yml"
+  ]
+ },
+ {
+  "slug": "klarna",
+  "specs": [
+   "openapi/_original/hosted-payment-page-api-openapi.yml",
+   "openapi/_original/klarna-settlements-api-openapi.yml",
+   "openapi/_original/kustom-checkout-api-openapi.yml",
+   "openapi/_original/kustom-checkout-callback-api-openapi.yml",
+   "openapi/_original/merchant-card-service-api-openapi.yml",
+   "openapi/_original/order-management-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "koin",
+  "specs": [
+   "openapi/_original/koin-antifraud-ato-openapi.json",
+   "openapi/_original/koin-antifraud-ecommerce-openapi.json",
+   "openapi/_original/koin-antifraud-evaluations-openapi.json",
+   "openapi/_original/koin-antifraud-lifecycle-openapi.json",
+   "openapi/_original/koin-antifraud-wire-transfer-openapi.json",
+   "openapi/_original/koin-bnpl-openapi.json",
+   "openapi/_original/koin-onboarding-openapi.json",
+   "openapi/_original/koin-payments-openapi.json"
+  ]
+ },
+ {
+  "slug": "kriya",
+  "specs": [
+   "openapi/_original/kriya-onboarding-openapi.yaml",
+   "openapi/_original/kriya-payments-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "landcor",
+  "specs": [
+   "openapi/_original/landcor-property-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "landmark-information",
+  "specs": [
+   "openapi/_original/landmark-information-conveyancing-experience-api-openapi.yml",
+   "openapi/_original/landmark-information-document-vault-api-openapi.yml",
+   "openapi/_original/landmark-information-intelliworks-api-openapi.yml",
+   "openapi/_original/landmark-information-milestone-notification-service-api-openapi.yml",
+   "openapi/_original/landmark-information-order-experience-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "lane-api",
+  "specs": [
+   "openapi/_original/lane-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "layup-technologies",
+  "specs": [
+   "openapi/_original/layup-technologies-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "lead-bank",
+  "specs": [
+   "openapi/_original/lead-bank-openapi.json"
+  ]
+ },
+ {
+  "slug": "leeds-building-society",
+  "specs": [
+   "openapi/_original/obie-opendata-standard-swagger.json"
+  ]
+ },
+ {
+  "slug": "lendapi",
+  "specs": [
+   "openapi/_original/lendapi-openapi.json"
+  ]
+ },
+ {
+  "slug": "lendkey",
+  "specs": [
+   "openapi/_original/lendkey-esign-openapi.yml",
+   "openapi/_original/lendkey-integration-openapi.yml",
+   "openapi/_original/lendkey-partner-integration-internal-openapi.yml",
+   "openapi/_original/lendkey-treasury-management-openapi.yml"
+  ]
+ },
+ {
+  "slug": "lev",
+  "specs": [
+   "openapi/_original/lev-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "liquity",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "mercado-pago",
+  "specs": [
+   "openapi/_original/mercado-pago-openapi.yml"
+  ]
+ },
+ {
+  "slug": "metalend",
+  "specs": [
+   "openapi/_original/metalend-rebalancing-openapi.json"
+  ]
+ },
+ {
+  "slug": "method-financial",
+  "specs": [
+   "openapi/_original/method-financial-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "methodfi",
+  "specs": [
+   "openapi/_original/methodfi-openapi-original.yml",
+   "openapi/_original/methodfi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ncino",
+  "specs": [
+   "openapi/_original/ncino-evault-openapi.json",
+   "openapi/_original/ncino-mortgage-openapi.yml",
+   "openapi/_original/ncino-mortgage-webhooks-openapi.json"
+  ]
+ },
+ {
+  "slug": "northmill",
+  "specs": [
+   "openapi/_original/northmill-flo-api-swagger.json"
+  ]
+ },
+ {
+  "slug": "notarize",
+  "specs": [
+   "openapi/_original/notarize-logs-api-specification-openapi.yml",
+   "openapi/_original/notarize-logs-api-specification-readme-slices.json",
+   "openapi/_original/notarize-oauth-2-0-api-specification-openapi.yml",
+   "openapi/_original/notarize-oauth-2-0-api-specification-readme-slices.json",
+   "openapi/_original/notarize-proof-business-api-specification-openapi.yml",
+   "openapi/_original/notarize-proof-business-api-specification-readme-slices.json",
+   "openapi/_original/notarize-proof-real-estate-api-specification-openapi.yml",
+   "openapi/_original/notarize-proof-real-estate-api-specification-readme-slices.json",
+   "openapi/_original/notarize-proof-verifiable-credentials-api-specification-openapi.yml",
+   "openapi/_original/notarize-proof-verifiable-credentials-api-specification-readme-slices.json",
+   "openapi/_original/notarize-scim-api-specification-openapi.yml",
+   "openapi/_original/notarize-scim-api-specification-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "ocrolus",
+  "specs": [
+   "openapi/_original/ocrolus-account-level-webhooks-openapi.json",
+   "openapi/_original/ocrolus-analyze-openapi.json",
+   "openapi/_original/ocrolus-authentication-openapi.json",
+   "openapi/_original/ocrolus-book-commands-openapi.json",
+   "openapi/_original/ocrolus-book-queries-openapi.json",
+   "openapi/_original/ocrolus-business-history-openapi.json",
+   "openapi/_original/ocrolus-capture-openapi.json",
+   "openapi/_original/ocrolus-detect-openapi.json",
+   "openapi/_original/ocrolus-encore-openapi.json",
+   "openapi/_original/ocrolus-file-uploads-openapi.json",
+   "openapi/_original/ocrolus-income-openapi.json",
+   "openapi/_original/ocrolus-org-level-webhooks-openapi.json",
+   "openapi/_original/ocrolus-tag-management-openapi.json",
+   "openapi/_original/ocrolus-user-management-openapi.json"
+  ]
+ },
+ {
+  "slug": "oper",
+  "specs": [
+   "openapi/_original/oper-api.json",
+   "openapi/_original/oper-loan-request-webhook.json",
+   "openapi/_original/oper-metrics.json",
+   "openapi/_original/oper-resources.json"
+  ]
+ },
+ {
+  "slug": "oper-credits",
+  "specs": [
+   "openapi/_original/oper-credits-api-openapi.json",
+   "openapi/_original/oper-credits-loan-request-webhook-openapi.json",
+   "openapi/_original/oper-credits-metrics-openapi.json",
+   "openapi/_original/oper-credits-resources-openapi.json"
+  ]
+ },
+ {
+  "slug": "orbii",
+  "specs": [
+   "openapi/_original/orbii-ksa-openapi-original.json",
+   "openapi/_original/orbii-omn-openapi-original.json",
+   "openapi/_original/orbii-uae-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "orbii-tech-ltd",
+  "specs": [
+   "openapi/_original/orbii-tech-ltd-foodics-openapi.json",
+   "openapi/_original/orbii-tech-ltd-ksa-openapi.json",
+   "openapi/_original/orbii-tech-ltd-main-openapi.json",
+   "openapi/_original/orbii-tech-ltd-omn-openapi.json",
+   "openapi/_original/orbii-tech-ltd-rewaa-openapi.json"
+  ]
+ },
+ {
+  "slug": "paidy",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "paragon-bank",
+  "specs": [
+   "openapi/_original/obie-account-info-standard.yaml",
+   "openapi/_original/obie-confirmation-funds-standard.yaml",
+   "openapi/_original/obie-opendata-standard.json",
+   "openapi/_original/obie-payment-initiation-standard.yaml"
+  ]
+ },
+ {
+  "slug": "payflex",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "payjoy",
+  "specs": [
+   "openapi/_original/payjoy-partner-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "paymob",
+  "specs": [
+   "openapi/_original/paymob-accept-api-openapi.yml",
+   "openapi/_original/paymob-payouts-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "pexa",
+  "specs": [
+   "openapi/_original/pexa-exchange-api-legacy-swagger.json",
+   "openapi/_original/pexa-exchange-api-swagger.json",
+   "openapi/_original/pexa-notification-service-openapi.yaml",
+   "openapi/_original/pexa-plus-marketplace-b2b-api-oas300-openapi.yaml",
+   "openapi/_original/pexa-plus-marketplace-b2b-api-openapi.yaml",
+   "openapi/_original/pexa-projects-api-v4-openapi.yaml",
+   "openapi/_original/pexa-standalone-discharge-experience-api-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "pricefinder",
+  "specs": [
+   "openapi/_original/pricefinder-api-swagger.json",
+   "openapi/_original/pricefinder-api-swagger.yml"
+  ]
+ },
+ {
+  "slug": "principality-building-society",
+  "specs": [
+   "openapi/_original/obie-open-data-swagger.json"
+  ]
+ },
+ {
+  "slug": "purplebricks",
+  "specs": [
+   "openapi/_original/purplebricks-account-v1-openapi.yml",
+   "openapi/_original/purplebricks-account-v1-swagger.json",
+   "openapi/_original/purplebricks-agent-v1-openapi.yml",
+   "openapi/_original/purplebricks-agent-v1-swagger.json",
+   "openapi/_original/purplebricks-branch-v1-openapi.yml",
+   "openapi/_original/purplebricks-branch-v1-swagger.json",
+   "openapi/_original/purplebricks-communications-v1-openapi.yml",
+   "openapi/_original/purplebricks-communications-v1-swagger.json",
+   "openapi/_original/purplebricks-conveyancing-v1-openapi.yml",
+   "openapi/_original/purplebricks-conveyancing-v1-swagger.json",
+   "openapi/_original/purplebricks-feedback-v1-openapi.yml",
+   "openapi/_original/purplebricks-feedback-v1-swagger.json",
+   "openapi/_original/purplebricks-lettings-v1-openapi.yml",
+   "openapi/_original/purplebricks-lettings-v1-swagger.json",
+   "openapi/_original/purplebricks-messaging-v1-openapi.yml",
+   "openapi/_original/purplebricks-messaging-v1-swagger.json",
+   "openapi/_original/purplebricks-messaging-v2-openapi.yml",
+   "openapi/_original/purplebricks-messaging-v2-swagger.json",
+   "openapi/_original/purplebricks-outlook-v1-openapi.yml",
+   "openapi/_original/purplebricks-outlook-v1-swagger.json",
+   "openapi/_original/purplebricks-property-v1-openapi.yml",
+   "openapi/_original/purplebricks-property-v1-swagger.json",
+   "openapi/_original/purplebricks-property-v2-openapi.yml",
+   "openapi/_original/purplebricks-property-v2-swagger.json",
+   "openapi/_original/purplebricks-valuations-v1-openapi.yml",
+   "openapi/_original/purplebricks-valuations-v1-swagger.json",
+   "openapi/_original/purplebricks-valuations-v2-openapi.yml",
+   "openapi/_original/purplebricks-valuations-v2-swagger.json",
+   "openapi/_original/purplebricks-viewings-v1-openapi.yml",
+   "openapi/_original/purplebricks-viewings-v1-swagger.json",
+   "openapi/_original/purplebricks-workflow-v1-openapi.yml",
+   "openapi/_original/purplebricks-workflow-v1-swagger.json"
+  ]
+ },
+ {
+  "slug": "r2",
+  "specs": [
+   "openapi/_original/r2-openapi.json"
+  ]
+ },
+ {
+  "slug": "reefapi",
+  "specs": [
+   "openapi/_original/reefapi-openapi.json"
+  ]
+ },
+ {
+  "slug": "resolve",
+  "specs": [
+   "openapi/_original/resolve-merchant-api-openapi.yaml",
+   "openapi/_original/resolve-partners-api-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "rollee",
+  "specs": [
+   "openapi/_original/rollee-company-api-readme-slices.json",
+   "openapi/_original/rollee-user-api-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "scalapay",
+  "specs": [
+   "openapi/_original/scalapay-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "scratchpay",
+  "specs": [
+   "openapi/_original/scratchpay-partner-1.0.0-apis-swagger.yml",
+   "openapi/_original/scratchpay-scratchpay-1.0.0-apis-swagger.yml",
+   "openapi/_original/scratchpay-scratchpay-care-credit-1.0.0-apis-swagger.yml"
+  ]
+ },
+ {
+  "slug": "sezzle",
+  "specs": [
+   "openapi/_original/sezzle-v2-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "shopback",
+  "specs": [
+   "openapi/_original/shopback-in-store-payments-openapi.yml",
+   "openapi/_original/shopback-online-payments-openapi.yml"
+  ]
+ },
+ {
+  "slug": "sikoia",
+  "specs": [
+   "openapi/_original/sikoia-openapi.yml"
+  ]
+ },
+ {
+  "slug": "skipton-building-society",
+  "specs": [
+   "openapi/_original/obie-opendata-openapi.json"
+  ]
+ },
+ {
+  "slug": "slope",
+  "specs": [
+   "openapi/_original/slope-v4-openapi.json"
+  ]
+ },
+ {
+  "slug": "sofi",
+  "specs": [
+   "openapi/_original/sofi-home-loan-affiliate-lead-api-openapi.yml",
+   "openapi/_original/sofi-partner-offer-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "sofi-technologies",
+  "specs": [
+   "openapi/_original/sofi-technologies-auth-api-openapi.json",
+   "openapi/_original/sofi-technologies-dispute-api-2-0-openapi.json",
+   "openapi/_original/sofi-technologies-dispute-api-3-0-openapi.json",
+   "openapi/_original/sofi-technologies-events-api-openapi.json",
+   "openapi/_original/sofi-technologies-external-trans-api-openapi.json",
+   "openapi/_original/sofi-technologies-loan-api-openapi.json",
+   "openapi/_original/sofi-technologies-payment-hub-api-openapi.json",
+   "openapi/_original/sofi-technologies-program-api-openapi.json",
+   "openapi/_original/sofi-technologies-public-config-api-openapi.json",
+   "openapi/_original/sofi-technologies-risk-api-1-0-openapi.json",
+   "openapi/_original/sofi-technologies-risk-api-2-0-openapi.json"
+  ]
+ },
+ {
+  "slug": "splitit",
+  "specs": [
+   "openapi/_original/splitit-account-management-api.yml",
+   "openapi/_original/splitit-installments-api-v3.yml"
+  ]
+ },
+ {
+  "slug": "sprift",
+  "specs": [
+   "openapi/_original/sprift-openapi.json"
+  ]
+ },
+ {
+  "slug": "state-farm",
+  "specs": [
+   "openapi/_original/state-farm-renters-insurance-openapi.yml"
+  ]
+ },
+ {
+  "slug": "state-farm-insurance-cos",
+  "specs": [
+   "openapi/_original/state-farm-insurance-cos-renters-openapi.yml"
+  ]
+ },
+ {
+  "slug": "synchrony-financial",
+  "specs": [
+   "openapi/_original/synchrony-financial-credit-authorization-openapi.yml",
+   "openapi/_original/synchrony-financial-quickscreen-apply-openapi.yml"
+  ]
+ },
+ {
+  "slug": "tabby",
+  "specs": [
+   "openapi/_original/tabby-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "tamara",
+  "specs": [
+   "openapi/_original/tamara-channel-partners-api-openapi.yml",
+   "openapi/_original/tamara-checkout-api-openapi.yml",
+   "openapi/_original/tamara-payments-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "taylor-morrison-home",
+  "specs": [
+   "openapi/_original/taylor-morrison-home-search-openapi.yml"
+  ]
+ },
+ {
+  "slug": "tesseract",
+  "specs": [
+   "openapi/_original/tesseract-public-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "tietoevry",
+  "specs": [
+   "openapi/_original/tietoevry-financial-api-aggregation-swagger.json",
+   "openapi/_original/tietoevry-financial-api-aggregation-swagger_2.json",
+   "openapi/_original/tietoevry-how-to-instruction.yaml",
+   "openapi/_original/tietoevry-how-to-instruction_2.yaml",
+   "openapi/_original/tietoevry-oauth2-how-to.yaml",
+   "openapi/_original/tietoevry-oauth2-how-to_2.yaml",
+   "openapi/_original/tietoevry-openbanking-xs2a-swagger.json",
+   "openapi/_original/tietoevry-openbanking-xs2a-swagger_2.json",
+   "openapi/_original/tietoevry-sepa-direct-debit-api-gateway.yaml",
+   "openapi/_original/tietoevry-sepa-direct-debit-api-gateway_2.yaml",
+   "openapi/_original/tietoevry-sepa-direct-debit.yaml",
+   "openapi/_original/tietoevry-sepa-direct-debit_2.yaml",
+   "openapi/_original/tietoevry-tieto-oauth2-embedded-intro.yaml",
+   "openapi/_original/tietoevry-tieto-oauth2-embedded-intro_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts-cards-premium.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts-cards-premium.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts-premium.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts-premium.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts.v1_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts.v1_2_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-accounts.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-bulk-payments.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-bulk-payments.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-funds.v1_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-funds.v1_2_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-funds.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-funds.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-future-dated-payments-premium.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-future-dated-payments-premium.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-payments.v1_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-payments.v1_2_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-payments.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-payments.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-periodic-payments-premium.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-periodic-payments-premium.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-recall-payments.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-recall-payments.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-request-to-pay.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-request-to-pay.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-signing-baskets.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-signing-baskets.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-subscriptions-request-to-pay.v1_3.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-subscriptions-request-to-pay.v1_3_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-vam-accounts.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-vam-accounts_2.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-vam-users.yaml",
+   "openapi/_original/tietoevry-tieto-xs2a-vam-users_2.yaml"
+  ]
+ },
+ {
+  "slug": "timeswap",
+  "specs": [
+   "openapi/_original/timeswap-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "toqio",
+  "specs": [
+   "openapi/_original/toqio-accounts-openapi.yml",
+   "openapi/_original/toqio-beneficiaries-openapi.yml",
+   "openapi/_original/toqio-card-management-api-openapi.yml",
+   "openapi/_original/toqio-cards-openapi.yml",
+   "openapi/_original/toqio-clients-openapi.yml",
+   "openapi/_original/toqio-compliance-endpoints-openapi.yml",
+   "openapi/_original/toqio-create-lead-service-openapi.yml",
+   "openapi/_original/toqio-custom-notifications-openapi.yml",
+   "openapi/_original/toqio-fees-openapi.yml",
+   "openapi/_original/toqio-get-company-kyb-documents-openapi.yml",
+   "openapi/_original/toqio-get-pre-signed-url-openapi.yml",
+   "openapi/_original/toqio-get-presigned-download-url-openapi.yml",
+   "openapi/_original/toqio-integration-hub-api-openapi.yml",
+   "openapi/_original/toqio-revenue-collections-openapi.yml",
+   "openapi/_original/toqio-security-openapi.yml",
+   "openapi/_original/toqio-transactions-openapi.yml",
+   "openapi/_original/toqio-upload-kyb-documents-openapi.yml"
+  ]
+ },
+ {
+  "slug": "truework",
+  "specs": [
+   "openapi/_original/truework-beta-openapi.yml",
+   "openapi/_original/truework-verifications-orders-openapi.yml",
+   "openapi/_original/truework-webhooks-openapi.yml"
+  ]
+ },
+ {
+  "slug": "uncapped",
+  "specs": [
+   "openapi/_original/uncapped-partners-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "unit-co",
+  "specs": [
+   "openapi/_original/unit-co-accounts-openapi.json",
+   "openapi/_original/unit-co-applications-openapi.json",
+   "openapi/_original/unit-co-authorizations-openapi.json",
+   "openapi/_original/unit-co-cards-openapi.json",
+   "openapi/_original/unit-co-checks-openapi.json",
+   "openapi/_original/unit-co-credit-openapi.json",
+   "openapi/_original/unit-co-customers-openapi.json",
+   "openapi/_original/unit-co-disputes-openapi.json",
+   "openapi/_original/unit-co-fees-rewards-openapi.json",
+   "openapi/_original/unit-co-openapi-source.json",
+   "openapi/_original/unit-co-openapi.yml",
+   "openapi/_original/unit-co-payments-openapi.json",
+   "openapi/_original/unit-co-sandbox-openapi.json",
+   "openapi/_original/unit-co-statements-openapi.json",
+   "openapi/_original/unit-co-stop-payments-openapi.json",
+   "openapi/_original/unit-co-tax-forms-openapi.json",
+   "openapi/_original/unit-co-transactions-openapi.json",
+   "openapi/_original/unit-co-webhooks-openapi.json"
+  ]
+ },
+ {
+  "slug": "unlock",
+  "specs": [
+   "openapi/_original/unlock-editorial-api-openapi.yml",
+   "openapi/_original/unlock-site-content-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "upward-financial",
+  "specs": [
+   "openapi/_original/upward-financial-openapi.json"
+  ]
+ },
+ {
+  "slug": "uzum",
+  "specs": [
+   "openapi/_original/uzum-checkout-openapi.yaml",
+   "openapi/_original/uzum-crossborder-openapi.yaml",
+   "openapi/_original/uzum-dynamicqr-openapi.yaml",
+   "openapi/_original/uzum-fastpay-openapi.yaml",
+   "openapi/_original/uzum-fiscalization-openapi.yaml",
+   "openapi/_original/uzum-nasiya-openapi.yaml",
+   "openapi/_original/uzum-ratekeeper-openapi.yaml",
+   "openapi/_original/uzum-remitcore-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "veritus",
+  "specs": [
+   "openapi/_original/veritus-openapi.json"
+  ]
+ },
+ {
+  "slug": "wayflyer",
+  "specs": [
+   "openapi/_original/wayflyer-embedded-finance-openapi-original.json",
+   "openapi/_original/wayflyer-embedded-finance-sandbox-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "xfers",
+  "specs": [
+   "openapi/_original/xfers-indonesia-openapi.json",
+   "openapi/_original/xfers-indonesia-payment-gateway-unique-amount-openapi.json",
+   "openapi/_original/xfers-indonesia-payment-gateway-va-cvs-openapi.json",
+   "openapi/_original/xfers-singapore-openapi.json"
+  ]
+ },
+ {
+  "slug": "zopa",
+  "specs": [
+   "openapi/_original/zopa-account-info-openapi-original.yml",
+   "openapi/_original/zopa-payment-initiation-openapi-original.yml"
+  ]
+ }
+]

@@ -1,0 +1,265 @@
+context: lending
+name: Lending
+generated: '2026-11-10'
+version: 0.1.0-draft.20261110
+status: draft
+cohort:
+  tags:
+  - Lending
+  - Mortgage
+  - Credit
+  - Buy Now Pay Later
+  - BNPL
+  - Consumer Lending
+  - Loan Origination
+  - Loans
+  - Embedded Lending
+  providers_with_harvested_openapi: 134
+thresholds:
+  core: 0.5
+  extended: 0.2
+  min_providers: 3
+excluded: {}
+duplicates:
+  figure:
+  - figure-technology-solutions
+  oper:
+  - oper-credits
+  orbii:
+  - orbii-tech-ltd
+shared_specs: {}
+concepts:
+  loan:
+    segments_seen:
+      loans: 12
+      loan: 3
+      credit_lines: 1
+    providers_exposing: 14
+    providers_with_readable_schema: 12
+    operations:
+    - operation: GET item
+      providers: 9
+      share: 0.643
+      tier: core
+    - operation: GET collection
+      providers: 8
+      share: 0.571
+      tier: core
+    - operation: POST collection
+      providers: 8
+      share: 0.571
+      tier: core
+    - operation: UPDATE item
+      providers: 7
+      share: 0.5
+      tier: core
+    - operation: DELETE item
+      providers: 5
+      share: 0.357
+      tier: extended
+    - operation: UPDATE collection
+      providers: 1
+      share: 0.071
+      tier: long-tail
+    properties:
+    - name: id
+      tier: core
+      providers: 8
+      share: 0.667
+      type: string
+      spellings:
+      - id
+      - loanId
+      - guid
+      - uuid
+      - loan_id
+    - name: amount
+      tier: core
+      providers: 6
+      share: 0.5
+      type: number
+      spellings:
+      - amount
+      - loanAmount
+      - principal
+    - name: status
+      tier: extended
+      providers: 5
+      share: 0.417
+      type: string
+      spellings:
+      - status
+      - state
+    - name: maturity_date
+      tier: extended
+      providers: 4
+      share: 0.333
+      type: string
+      spellings:
+      - maturityDate
+      - end_date
+      - maturity_date
+    - name: product_id
+      tier: extended
+      providers: 4
+      share: 0.333
+      type: string
+      spellings:
+      - loanType
+      - loan_type
+      - _type
+      - type
+    - name: created_at
+      tier: extended
+      providers: 3
+      share: 0.25
+      type: string
+      spellings:
+      - createdAt
+      - created_date
+      - created_at
+    - name: currency
+      tier: extended
+      providers: 3
+      share: 0.25
+      type: string
+      spellings:
+      - currency
+    - name: interest_rate
+      tier: extended
+      providers: 3
+      share: 0.25
+      type: number
+      spellings:
+      - interest_rate
+      - interestRate
+      - apr
+    - name: loan_number
+      tier: extended
+      providers: 3
+      share: 0.25
+      type: string
+      spellings:
+      - loanNumber
+      - loan_number
+    - name: originated_at
+      tier: extended
+      providers: 3
+      share: 0.25
+      type: string
+      spellings:
+      - startDate
+      - disbursementDate
+      - start_date
+    long_tail_count: 183
+    long_tail_sample:
+    - applications
+    - balance
+    - documents
+    - external_id
+    - metadata
+    - property
+    - updated_at
+    - additional_comments
+    - amortization_type
+    - amount_base
+    - amount_total
+    - analysis_commentary
+    - approved_date
+    - attachments
+    - auto_validate
+    - balloon_payment
+    - base_rate_fraction
+    - borrower_counterparty_id
+    - borrower_financial_product_id
+    - borrower_id
+    - borrower_info
+    - borrower_organization_id
+    - borrower_portfolio_id
+    - borrower_uuid
+    - borrowers
+    - case_id
+    - client_interest_rate_fraction
+    - close_date
+    - closing_date
+    - code
+    - collateral_data
+    - collateral_life_months
+    - collateral_portfolio_id
+    - collateral_type
+    - collateral_value
+    - collaterals
+    - compliance_info
+    - contacts
+    - contents
+    - contract_performance
+  borrower:
+    segments_seen:
+      borrowers: 3
+      borrower: 2
+    providers_exposing: 4
+    providers_with_readable_schema: 3
+    operations:
+    - operation: GET collection
+      providers: 4
+      share: 1.0
+      tier: core
+    - operation: GET item
+      providers: 3
+      share: 0.75
+      tier: core
+    - operation: POST collection
+      providers: 3
+      share: 0.75
+      tier: core
+    - operation: UPDATE item
+      providers: 2
+      share: 0.5
+      tier: long-tail
+    - operation: DELETE item
+      providers: 1
+      share: 0.25
+      tier: long-tail
+    properties: []
+    long_tail_count: 54
+    long_tail_sample:
+    - created_at
+    - id
+    - name
+    - account_number
+    - address
+    - cell_phone
+    - contact_email
+    - contact_person
+    - contact_phone
+    - contents
+    - country
+    - current_address
+    - custom_attributes
+    - custom_consent
+    - date_of_birth
+    - default_spreading_template_subtype
+    - directors
+    - email
+    - external_id
+    - first_name
+    - full_name
+    - home_phone
+    - identifier
+    - identifier_type
+    - is_active
+    - is_individual
+    - last_name
+    - legal_form
+    - loan_officer_id
+    - mailing_address
+    - marital_status
+    - metadata
+    - middle_name
+    - naics_code
+    - owner
+    - pair_index
+    - partner_id
+    - phone
+    - portfolio_uuid
+    - preferred_language

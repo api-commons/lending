@@ -1,0 +1,32 @@
+provider: defacto
+apis_io: https://apis.io/providers/defacto/
+context: lending
+generated: '2026-11-10'
+concepts:
+  loan:
+    path_segment:
+    - loan
+    - loans
+    - credit_lines
+    properties:
+      amount: amount
+      product_id: loan_type
+      currency: currency
+    core_coverage: 0.5
+    evidence:
+    - openapi/_original/defacto-openapi-original.json#GET /credit_lines
+    - openapi/_original/defacto-openapi-original.json#GET /loan/{loan_id}
+    - openapi/_original/defacto-openapi-original.json#GET /loans
+    - openapi/_original/defacto-openapi-original.json#PATCH /loan/{loan_id}
+    - openapi/_original/defacto-openapi-original.json#POST /loans
+  borrower:
+    path_segment:
+    - borrower
+    - borrowers
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/defacto-openapi-original.json#GET /borrower/{borrower_id}
+    - openapi/_original/defacto-openapi-original.json#GET /borrowers
+    - openapi/_original/defacto-openapi-original.json#POST /borrowers
+    - openapi/_original/defacto-openapi-original.json#POST /eligibility/borrower

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-commons/lending/main/schema/borrower.json",
+  "title": "Borrower",
+  "description": "The common borrower in Lending, distilled from 3 providers' own OpenAPI. Each property records the share of them that declare it.",
+  "type": "object",
+  "properties": {},
+  "required": [],
+  "x-commons": {
+    "context": "lending",
+    "concept": "borrower",
+    "providers": 3,
+    "generated": "2026-11-10",
+    "version": "0.1.0-draft.20261110",
+    "status": "draft"
+  }
+}
